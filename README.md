@@ -4,6 +4,8 @@ Project Discord bot while learning Python.
 
 This Bot uses Pycord API and Python 3.9. 
 
+*Note: Any file inside in-progress modules are unstable/unfinished and is under development and may cause malfunction*
+
 **Current stable feature/s**
 - Ping check (bot latency check)
 - Calculate 2 numbers (add, sub, div, multiply) 
