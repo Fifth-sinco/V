@@ -7,19 +7,20 @@ class Bleh(commands.Cog):
         self.client = client
 
     @commands.command()
-    async def k(self, ctx):
+    async def bi(self, ctx, *, text):
         await ctx.channel.purge(limit=1)
-        await ctx.send('**Bahala ka jan**')
+        await ctx.send(f'***{text}***')
     
     @commands.command()
-    async def h(self, ctx):
+    async def i(self, ctx, *, text):
         await ctx.channel.purge(limit=1)
-        await ctx.send('**HAHAHA**')
+        await ctx.send(f'*{text}*')
 
     @commands.command()
-    async def r(self, ctx):
+    async def b(self, ctx, *, text):
         await ctx.channel.purge(limit=1)
-        await ctx.send('**tanggal na**')
+        await ctx.send('**{text}**')
 
 def setup(client):
     client.add_cog(Bleh(client))
+ 
