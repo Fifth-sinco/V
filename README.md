@@ -30,4 +30,4 @@ This Bot uses Pycord API and Python 3.9.
 - Timezone Clock (channel rename)
 
 
-- Sinco
+By Sinco, 3-6-2022 
