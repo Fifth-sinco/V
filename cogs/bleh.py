@@ -19,7 +19,7 @@ class Bleh(commands.Cog):
     @commands.command()
     async def b(self, ctx, *, text):
         await ctx.channel.purge(limit=1)
-        await ctx.send('**{text}**')
+        await ctx.send(f'**{text}**')
 
 def setup(client):
     client.add_cog(Bleh(client))
