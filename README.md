@@ -23,10 +23,10 @@ This Bot uses Pycord API and Python 3.9.
 
 **UPDATE 5-24-2022**
 1. Custom info bot for engineering students 
-  a. Contains:
-    1. formulas for Engineering subjects (Geometry, Calculus, Trigonometry, etc.)
-    2. constants that are frequently used for Electrical Engineering Students
-    3. references like YT Videos/channels, books, sites, etc. 
+  - Contains:
+    - formulas for Engineering subjects (Geometry, Calculus, Trigonometry, etc.)
+    - constants that are frequently used for Electrical Engineering Students
+    - references like YT Videos/channels, books, sites, etc. 
 *Status: ongoing*
 
 2. Custom Info Bot for Board exam Filing and post exam requirements
