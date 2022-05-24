@@ -30,10 +30,10 @@ This Bot uses Pycord API and Python 3.9.
 *Status: ongoing*
 
 2. Custom Info Bot for Board exam Filing and post exam requirements
-  a. Filing and registration
-  b. Exam Requirements 
-  c. Health Declaration forms 
-  d. Profesional ID and Oath Taking requirements
+  - Filing and registration
+  - Exam Requirements 
+  - Health Declaration forms 
+  - Profesional ID and Oath Taking requirements
 *Status: ongoing*
 
 **Future Plan (No firm timeline)**
