@@ -2,7 +2,7 @@
 
 Project Discord bot while learning Python.
 
-This Bot uses Pycord API and Python 3.9. 
+This Bot uses Pycord API and Python 3.9
 
 **Current feature/s**
 - Ping check (bot latency check)
