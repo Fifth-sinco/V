@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-class Bleh(commands.Cog):
+class Text(commands.Cog):
 
     def __init__(self, client):
         self.client = client
@@ -20,7 +20,12 @@ class Bleh(commands.Cog):
     async def b(self, ctx, *, text):
         await ctx.channel.purge(limit=1)
         await ctx.send(f'**{text}**')
+    
+    @commands.command()
+    async def s(self, ctx, *, text):
+        await ctx.channel.purge(limit=1)
+        await ctx.send('~~{text}~~')
 
 def setup(client):
-    client.add_cog(Bleh(client))
+    client.add_cog(Text(client))
  
