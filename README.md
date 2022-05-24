@@ -44,6 +44,6 @@ This Bot uses Pycord API and Python 3.9.
 - Backend Error reporting
 - Timezone Clock (channel rename)
 
-*Warning: Any file inside in-progress modules are unstable/unfinished and is under development and may cause malfunction. Features inside in-progress will be added once it is fixed. All changes will be disclosed before deployment*
+*Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside in-progress will be added once it is fixed. All changes will be disclosed before deployment*
 
 By Sinco, 5-24-2022 
