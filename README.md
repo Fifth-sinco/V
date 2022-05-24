@@ -23,14 +23,27 @@ This Bot uses Pycord API and Python 3.9.
 - Music command
   - coded but not tested
 
+**UPDATE 5-24-2022**
+- Custom info bot for engineering students 
+  - Contains:
+    a. formulas for Engineering subjects (Geometry, Calculus, Trigonometry, etc.)
+    b. constants that are frequently used for Electrical Engineering Students
+    c. references like YT Videos/channels, books, sites, etc. 
+*Status: ongoing*
+
+- Custom Info Bot for Board exam Filing and post exam requirements
+  1. Filing and registration
+  2. Exam Requirements 
+  3. Health Declaration forms 
+  4. Profesional ID and Oath Taking requirements
+*Status: ongoing*
+
 **Future Plan (No firm timeline)**
-- Custom help 
-- Custon multiple reaction role
+- Custom multiple reaction role
 - Custom Vote/Poll system 
 - Notification system (twitch, twitter, etc.)
 - Command Aliasses 
 - Backend Error reporting
 - Timezone Clock (channel rename)
 
-
-By Sinco, 3-6-2022 
+By Sinco, 5-24-2022 
