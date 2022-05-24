@@ -4,15 +4,13 @@ Project Discord bot while learning Python.
 
 This Bot uses Pycord API and Python 3.9. 
 
-*Note: Any file inside in-progress modules are unstable/unfinished and is under development and may cause malfunction*
-
-**Current stable feature/s**
+**Current feature/s**
 - Ping check (bot latency check)
 - Calculate 2 numbers (add, sub, div, multiply) 
 - Ban
 - Kick
 - Unban
-- Text Modifiers (**bold**, *italic*, ***Bold-italic***)
+- Text Modifiers (**bold**, *italic*, ***Bold-italic***, ~~Strikethrough~~)
 - Clear Channel 
 
 **UPDATE 3-6-2022**
@@ -45,5 +43,7 @@ This Bot uses Pycord API and Python 3.9.
 - Command Aliasses 
 - Backend Error reporting
 - Timezone Clock (channel rename)
+
+*Warning: Any file inside in-progress modules are unstable/unfinished and is under development and may cause malfunction. Features inside in-progress will be added once it is fixed. All changes will be disclosed before deployment*
 
 By Sinco, 5-24-2022 
