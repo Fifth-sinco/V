@@ -27,14 +27,14 @@ This Bot uses Pycord API and Python 3.9
     - formulas for Engineering subjects (Geometry, Calculus, Trigonometry, etc.)
     - constants that are frequently used for Electrical Engineering Students
     - references like YT Videos/channels, books, sites, etc. 
-\n*Status: ongoing*
+-*Status: ongoing*
 
 2. Custom Info Bot for Board exam Filing and post exam requirements
   - Filing and registration *
   - Exam Requirements 
   - Health Declaration forms 
   - Profesional ID and Oath Taking requirements
-\n*Status: ongoing*
+-*Status: ongoing*
 
 **Future Plan (No firm timeline)**
 - Custom multiple reaction role
