@@ -33,8 +33,8 @@ This Bot uses Pycord API and Python 3.9
   - Filing and registration *
   - Exam Requirements 
   - Health Declaration forms 
-  - Profesional ID and Oath Taking requirements *
-*Status: ongoing. All marked with (*) are complete and stable*
+  - Profesional ID and Oath Taking requirements
+*Status: ongoing*
 
 **Future Plan (No firm timeline)**
 - Custom multiple reaction role
