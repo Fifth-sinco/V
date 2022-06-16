@@ -22,13 +22,13 @@ class Text(commands.Cog):
     async def B(self, ctx, *, text):
         """Bold text"""
         await ctx.channel.purge(limit=1)
-        await ctx.send('**{text}**')
+        await ctx.send(f'**{text}**')
 
     @commands.command()
     async def S(self, ctx, *, text):
         """Strikethrough text"""
         await ctx.channel.purge(limit=1)
-        await ctx.send('~~{text}~~')
+        await ctx.send(f'~~{text}~~')
 
 def setup(client):
     client.add_cog(Text(client))
