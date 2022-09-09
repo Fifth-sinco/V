@@ -67,7 +67,10 @@ class Requirement(commands.Cog):
         embed.add_field(name = "4. Two (2) sets of documentary stamp", value = "- can be acquired directly on PRC offices", inline = False)
         embed.add_field(name = "5. One (1) piece short brown envelope", value = "- for filing", inline = False)
         embed.add_field(name = "6. IIEE Membership Reciept", value = "- can be processed online or directly at IIEE Main Office. \n- Reggistration Link: https://membership.iiee.org.ph/ee/index.php/appform?fbclid=IwAR1OnXO-fifrYEPgo7UF-kbf78WFNyPZO9-6e9tlv9abtCQR_XNSEjrk0Ec \n- Registration Guide: https://iiee.org.ph:89/uploads/files/1109.pdf \n- for questions not detailed on Guide, contact Ma'am Alma Larce, IIEE Membership Department Head: larce_alma@yahoo.com.ph", inline = False)
+        embed.add_field(name = "7. Money (100 php) Metered Stamp", value = "- purchased on PRC Office", inline = False)
+        embed.add_field(name = "8. Screenshots (for E-Oath, Print out)", value = "- atleast 4 screenshots", inline = False)
         embed.set_footer(text = "Information above are based on PRC Requirement for April 2022")
+        
         
 
         await ctx.channel.purge(limit=1)
