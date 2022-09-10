@@ -30,6 +30,6 @@ class Text(commands.Cog):
         await ctx.channel.purge(limit=1)
         await ctx.send(f'~~{text}~~')
 
-def setup(client):
+async def setup(client):
     client.add_cog(Text(client))
  
