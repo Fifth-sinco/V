@@ -22,4 +22,9 @@ async def load_extensions():
         if filename.endswith('.py'):
             await client.load_extension(f'cogs.{filename[:-3]}')
 
-client.run('ODAyMDQ3NjIyMTU5NjYzMTM0.YApjDg.RDzgHW6TvTP2JvhmbkUp1HQkUtI')
+async def main():
+    async with client:
+        await load_extensions()
+        await client.start('ODAyMDQ3NjIyMTU5NjYzMTM0.YApjDg.RDzgHW6TvTP2JvhmbkUp1HQkUtI')
+        
+asyncio.run(main())
