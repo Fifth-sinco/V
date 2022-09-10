@@ -27,4 +27,4 @@ class Calc(commands.Cog):
         await ctx.send(left / right)
 
 async def setup(client):
-    client.add_cog(Calc(client))
+    await client.add_cog(Calc(client))
