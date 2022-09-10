@@ -26,5 +26,5 @@ class Calc(commands.Cog):
         """Divide two numbers together."""
         await ctx.send(left / right)
 
-def setup(client):
+async def setup(client):
     client.add_cog(Calc(client))
