@@ -47,4 +47,4 @@ class Defaults(commands.Cog):
                 return
 
 async def setup(client):
-    client.add_cog(Defaults(client))
+    await client.add_cog(Defaults(client))
