@@ -31,5 +31,5 @@ class Text(commands.Cog):
         await ctx.send(f'~~{text}~~')
 
 async def setup(client):
-    client.add_cog(Text(client))
+    await client.add_cog(Text(client))
  
