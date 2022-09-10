@@ -15,7 +15,7 @@ async def load(ctx, extension):
 @client.command()
 async def unload(ctx, extension):
     """Unloads a Cog"""
-    await client.unload_extension(f'cogs.{extension}')
+    client.unload_extension(f'cogs.{extension}')
 
 async def load_extensions(): 
     for filename in os.listdir('./cogs'):
