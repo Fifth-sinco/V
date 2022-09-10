@@ -46,5 +46,5 @@ class Defaults(commands.Cog):
                 await ctx.send(f'{user.name}#{user.discriminator} has been unbanned.')
                 return
 
-def setup(client):
+async def setup(client):
     client.add_cog(Defaults(client))
