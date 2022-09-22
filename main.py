@@ -25,6 +25,6 @@ async def load_extensions():
 async def main():
     async with client:
         await load_extensions()
-        await client.start('ODAyMDQ3NjIyMTU5NjYzMTM0.YApjDg.RDzgHW6TvTP2JvhmbkUp1HQkUtI')
+        await client.start('TOKEN')
         
 asyncio.run(main())
