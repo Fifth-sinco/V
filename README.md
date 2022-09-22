@@ -15,12 +15,8 @@ This Bot uses Pycord API and Python 3.9
 - Custom embed for REE, RME PRC requirements
 
 **UPDATE 3-6-2022**
-- Verification system
-  - Coded but not tested
 - Custom reaction roles 
   - need to work on json.load (error: needs to be a string or a bytearray not TypeIO)
-- Music command
-  - coded but not tested
 
 **UPDATE 5-26-2022**
 1. Custom info for engineering students 
