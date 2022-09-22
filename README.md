@@ -23,7 +23,7 @@ This Bot uses Pycord API and Python 3.9
   - coded but not tested
 
 **UPDATE 5-26-2022**
-1. Custom info bot for engineering students 
+1. Custom info for engineering students 
   - Contains:
     - PRC application, board exam, oath taking, license registration requirements and process details. 
 
