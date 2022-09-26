@@ -24,7 +24,7 @@ This Bot uses Pycord API and Python 3.9
     - PRC application, board exam, oath taking, license registration requirements and process details. 
 
 **UPDATE 9-12-2022** 
-1. Changes were made to the ff. due to changes on discord.py API. Discord.py API bot.load_extensions were changed to a coroutine for the version 2.0.
+1. Changes were made to the ff. due to changes on discord.py API.
   - Main.py 
     - command handler
   - Cogs
