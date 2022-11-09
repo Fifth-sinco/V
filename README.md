@@ -29,10 +29,6 @@ This Bot uses Pycord API and Python 3.9
     - command handler
   - Cogs
 
-**Future Plan (No firm timeline)**
-- Custom multiple reaction role
-- Custom Vote/Poll system
-
 *Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment*
 
 By Sinco, 9-22-2022 
