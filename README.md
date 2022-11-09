@@ -33,6 +33,6 @@ This Bot uses Pycord API and Python 3.9
 
 **CANCELLED**
 
-*Due to unsupported features that the developer want to implement to the bot and frequent update to the API that always broke the code down. Until such time that the API stops code-breaking updates, this will not be continued.*
+*Due to unsupported features that the developer want to implement to the bot and frequent update to the API that always broke the code down. Until such time that the developer figured out the cause of code-breakdown, this will not be continued.*
 
 By Sinco, 11-9-2022 
