@@ -29,6 +29,10 @@ This Bot uses Pycord API and Python 3.9
     - command handler
   - Cogs
 
-*Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment*
+*Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment* 
 
-By Sinco, 9-22-2022 
+**CANCELLED**
+
+*Due to unsupported features that the developer want to implement to the bot and frequent update to the API that always broke the code down. Until such time that the API stops code-breaking updates, this will not be continued.*
+
+By Sinco, 11-9-2022 
