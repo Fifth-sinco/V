@@ -2,7 +2,7 @@
 
 Project Discord bot while learning Python.
 
-This Bot uses Pycord API and Python 3.9
+This Bot uses Pycord API and Python 3.9 (changed to  3.10)
 
 **Current feature/s**
 - Ping check (bot latency check)
@@ -31,8 +31,7 @@ This Bot uses Pycord API and Python 3.9
 
 *Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment* 
 
-**CANCELLED**
-
-*Due to unsupported features that the developer want to implement to the bot and frequent update to the API that always broke the code down. Until such time that the developer figured out the cause of code-breakdown, this will not be continued. This bot will be remade using NodeJS and will be used to the same server.* 
-
+**UPDATE 11-15-2022**
+Project was temporarily halted due to API updates and the dev was not able to figure it out immediately. 
+ 
 By Sinco, 11-9-2022 
