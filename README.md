@@ -32,6 +32,7 @@ This Bot uses Pycord API and Python 3.9 (changed to  3.10)
 *Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment* 
 
 **UPDATE 11-15-2022**
+
 Project was temporarily halted due to API updates and the dev was not able to figure it out immediately. 
  
 By Sinco, 11-9-2022 
