@@ -1,4 +1,4 @@
-import discord
+import discord.py
 from discord.ext import commands
 
 class Requirement(commands.Cog):
