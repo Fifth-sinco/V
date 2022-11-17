@@ -2,7 +2,7 @@
 
 Project Discord bot while learning Python.
 
-This Bot uses Pycord API and Python 3.9 (changed to  3.10)
+This Bot uses Pycord API and Python 3.9 and is hosted via Raspberry PI.
 
 **Current feature/s**
 - Ping check (bot latency check)
@@ -34,5 +34,9 @@ This Bot uses Pycord API and Python 3.9 (changed to  3.10)
 Project was temporarily halted due to API updates and the dev was not able to figure it out immediately. 
 
 *Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment* 
+
+**UPDATE 11-17-2022**
+
+Python version rollbacked to 3.9 from 3.10 since 3.10 cannot be deployed by the developer on the host Raspberry Pi OS.
  
-By Sinco, 11-9-2022 
+By Sinco, 11-17-2022 
