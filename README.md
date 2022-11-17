@@ -33,10 +33,11 @@ This Bot uses Pycord API and Python 3.9 and is hosted via Raspberry PI.
 
 Project was temporarily halted due to API updates and the dev was not able to figure it out immediately. 
 
-*Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment* 
-
 **UPDATE 11-17-2022**
 
 Python version rollbacked to 3.9 from 3.10 since 3.10 cannot be deployed by the developer on the host Raspberry Pi OS.
- 
+
+
+*Warning: Any file inside in-progress modules are unstable and is under development and may cause malfunction. Features inside it will be added once it is fixed. All changes will be disclosed before deployment*
+
 By Sinco, 11-17-2022 
